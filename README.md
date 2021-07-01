@@ -3,7 +3,9 @@ This repo contains assignments that I coded for my first computer science course
 
 In this course, I focused on:
 * Translating problems into code using *modular design*
-* Unit testing
-* Creating interactive systems that allowed for user input
-* Recursion
+* Creating interactive systems that allowed for user input 
+* Reading in and writing to files
+* Unit Testing
+* Recursive Algorithms
+* Searcha & Sorting Algorithms (i.e., Quicksort, Mergesort, etc.)
 * Complexity analysis
