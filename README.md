@@ -8,4 +8,4 @@ In this course, I focused on:
 * *Unit Testing*
 * *Recursive Algorithms*
 * *Searching & Sorting Algorithms (i.e., Quicksort, Mergesort, etc.)*
-* *Complexity analysis*
+* *Complexity Analysis*
