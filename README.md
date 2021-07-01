@@ -7,5 +7,5 @@ In this course, I focused on:
 * *Reading in and writing to files*
 * *Unit Testing*
 * *Recursive Algorithms*
-* *(Search & Sorting Algorithms (i.e., Quicksort, Mergesort, etc.)*
+* *Search & Sorting Algorithms (i.e., Quicksort, Mergesort, etc.)*
 * *Complexity analysis*
