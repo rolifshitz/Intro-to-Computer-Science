@@ -17,6 +17,6 @@ Projects in this repo were created with:
 
 ```Python version: 3.5```
 
-To run an assignment, simply go into the assignment folder and run the InputDriver.py script. This will jump start the program corresponding to this assignment.
+To run an assignment, simply go into the assignment folder and run the `InputDriver.py` script. This will jump start the program corresponding to this assignment.
 
 Before running Assignment 1/InputDriver.py, please install the *NLTK* package using the instructions found [here](https://www.nltk.org/install.html). It is recommended to use an Anaconda Environment. Installation instructions for Anaconda can be found [here](https://docs.anaconda.com/anaconda/install/index.html), and instructions for creation of a new environment can be found [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands).
