@@ -15,7 +15,7 @@ In this course, I focused on:
 ## Setup
 Projects in this repo were created with:
 
-> Python version: 3.5
+    Python version: 3.5
 
 To run an assignment, simply go into the assignment folder and run the `InputDriver.py` script. This will jump start the program corresponding to this assignment.
 
