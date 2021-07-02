@@ -1,6 +1,6 @@
 # Intro-to-Computer-Science
 
-## About This Repo
+## About
 This repo contains assignments that I coded for my first computer science course in university.
 
 In this course, I focused on:
